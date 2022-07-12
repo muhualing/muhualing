@@ -15,5 +15,5 @@
 
 - 📫 How to reach me:  **hualing.mu@outlook.com**
 
-![pic01](https://github-readme-stats.vercel.app/api/top-langs?username=muhualing&show_icons=true&locale=en&layout=compact)
-![pic02](https://github-readme-stats.vercel.app/api?username=muhualing&show_icons=true&locale=en)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhualing&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hualing's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhualing&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
