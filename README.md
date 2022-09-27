@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mu Hualing</h1>
-<h3 align="center">A Microsoft Engineer</h3>
+<h3 align="center">A Microsoft Software Engineer</h3>
 <a href="https://muhualing.github.io/">
     <img src="https://komarev.com/ghpvc/?username=muhualing&label=Profile%20views&color=0e75b6&style=flat" alt="muhualing" />
 </a>
